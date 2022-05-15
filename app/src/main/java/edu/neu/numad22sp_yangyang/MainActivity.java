@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void intromyself(View v){
+    public void intro(View v){
         displayToastMsg("YANG YANG \nyang.yang16@northeastern.edu");
     }
 
